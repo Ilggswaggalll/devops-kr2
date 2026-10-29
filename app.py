@@ -1,3 +1,4 @@
+# KR2: Ilgiz
 import os
 import socket
 
